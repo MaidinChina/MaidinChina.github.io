@@ -1,0 +1,19 @@
+{
+  "name": "Maid in China",
+  "version": "0.0.1",
+  "description": "Studio Website",
+  "main": "index.js",
+  "authors": {
+    "name": "Solomon",
+    "email": " solomon.royarr@gmail.com"
+  },
+  "repository": "maidinchina.github.io/Maid in China",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
